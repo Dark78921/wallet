@@ -1,7 +1,17 @@
-ERC20:      0xc722ea62a9c6043e96610e31630629085bb453e1
-BEP20:      0x907f6a91f355d72d9b14c70a6a958100eb2179e6
-TRC20:      TQwwZUz6sosA8y7AXbHt21mxDE22bfPtkf
-SOL:        CC1PT3ZFUjH7ABUanjwLDyXuWA224TDSfdj4bKfJxJTK
-POS:        0x9098642098818b84f21a3b1d9dbc2bb0275d3415
-Arbitrum:   0xf8291cc740d81c225845a1a5830c228d5c3c3fc7
-Optimism:   0x0faac132cca47d8cbed2ad0499f1c6f2a6308e6b
+# 💳 Crypto Wallets
+
+Here are the supported wallet addresses across multiple chains:
+
+| Network    | Address                                                                 |
+|------------|-------------------------------------------------------------------------|
+| **ERC20**  | `0xc722ea62a9c6043e96610e31630629085bb453e1`                            |
+| **BEP20**  | `0x907f6a91f355d72d9b14c70a6a958100eb2179e6`                            |
+| **TRC20**  | `TQwwZUz6sosA8y7AXbHt21mxDE22bfPtkf`                                    |
+| **SOL**    | `CC1PT3ZFUjH7ABUanjwLDyXuWA224TDSfdj4bKfJxJTK`                          |
+| **POS**    | `0x9098642098818b84f21a3b1d9dbc2bb0275d3415`                            |
+| **Arbitrum** | `0xf8291cc740d81c225845a1a5830c228d5c3c3fc7`                          |
+| **Optimism** | `0x0faac132cca47d8cbed2ad0499f1c6f2a6308e6b`                          |
+
+---
+
+✨ **Tip:** You can copy any of the addresses directly by clicking the code blocks.
